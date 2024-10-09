@@ -1,0 +1,14 @@
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\bin\Debug\net8.0\BaseLibrary.runtimeconfig.json
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\BaseLibrary.genruntimeconfig.cache
+C:\Users\bakha\source\repos\VibeLink\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll

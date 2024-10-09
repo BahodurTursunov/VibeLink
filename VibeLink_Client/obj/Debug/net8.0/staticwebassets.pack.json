@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\obj\\Debug\\net8.0\\compressed\\hml3yu30au.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\VibeLink_Client.styles.css",
+      "PackagePath": "staticwebassets\\VibeLink_Client.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VibeLink_Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VibeLink_Client.props",
+      "PackagePath": "build\\VibeLink_Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VibeLink_Client.props",
+      "PackagePath": "buildMultiTargeting\\VibeLink_Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VibeLink_Client.props",
+      "PackagePath": "buildTransitive\\VibeLink_Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

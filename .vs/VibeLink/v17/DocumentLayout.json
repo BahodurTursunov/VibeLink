@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\bakha\\source\\repos\\vibelink\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\bakha\\source\\repos\\vibelink\\serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\bakha\\source\\repos\\vibelink\\serverlibrary\\data\\configuration\\fileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\configuration\\fileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\bakha\\source\\repos\\vibelink\\serverlibrary\\data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\bakha\\source\\repos\\vibelink\\serverlibrary\\data\\configuration\\chatconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\configuration\\chatconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\bakha\\source\\repos\\vibelink\\vibelink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\bakha\\source\\repos\\vibelink\\baselibrary\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\Program.cs",
+              "RelativeDocumentMoniker": "VibeLink\\Program.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\Program.cs",
+              "RelativeToolTip": "VibeLink\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:03:25.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerLibrary",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.csproj",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeToolTip": "ServerLibrary\\ServerLibrary.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T06:19:23.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\Data\\Configuration\\ChatConfiguration.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Configuration\\ChatConfiguration.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\Data\\Configuration\\ChatConfiguration.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Configuration\\ChatConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:45:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\Entities\\User.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:44:53.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:43:47.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\Data\\Configuration\\FileConfiguration.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Configuration\\FileConfiguration.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\Data\\Configuration\\FileConfiguration.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Configuration\\FileConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:43:43.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:43:16.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

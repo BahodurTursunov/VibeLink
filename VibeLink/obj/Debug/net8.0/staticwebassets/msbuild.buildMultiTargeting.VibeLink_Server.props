@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VibeLink_Server.props" />
+</Project>

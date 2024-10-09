@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VibeLink_Server", "VibeLink_Server.csproj", "{3AA99234-C67C-4DF0-B589-11931D9A7F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLibrary", "..\ServerLibrary\ServerLibrary.csproj", "{3FB9C1B9-4987-472D-A543-1E24D78B8544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "..\BaseLibrary\BaseLibrary.csproj", "{699B8720-7FF3-4969-8FDA-4316C1B4DAEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLibrary", "..\ClientLibrary\ClientLibrary.csproj", "{F5DD7C14-057E-4C8F-BD25-0E4A3917C050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibeLink_Client", "..\VibeLink_Client\VibeLink_Client.csproj", "{427A1F95-FF0B-48A2-BBF3-FFF6C40EE065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AA99234-C67C-4DF0-B589-11931D9A7F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA99234-C67C-4DF0-B589-11931D9A7F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA99234-C67C-4DF0-B589-11931D9A7F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA99234-C67C-4DF0-B589-11931D9A7F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB9C1B9-4987-472D-A543-1E24D78B8544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB9C1B9-4987-472D-A543-1E24D78B8544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB9C1B9-4987-472D-A543-1E24D78B8544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB9C1B9-4987-472D-A543-1E24D78B8544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699B8720-7FF3-4969-8FDA-4316C1B4DAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699B8720-7FF3-4969-8FDA-4316C1B4DAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699B8720-7FF3-4969-8FDA-4316C1B4DAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699B8720-7FF3-4969-8FDA-4316C1B4DAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DD7C14-057E-4C8F-BD25-0E4A3917C050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DD7C14-057E-4C8F-BD25-0E4A3917C050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DD7C14-057E-4C8F-BD25-0E4A3917C050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DD7C14-057E-4C8F-BD25-0E4A3917C050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427A1F95-FF0B-48A2-BBF3-FFF6C40EE065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427A1F95-FF0B-48A2-BBF3-FFF6C40EE065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427A1F95-FF0B-48A2-BBF3-FFF6C40EE065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427A1F95-FF0B-48A2-BBF3-FFF6C40EE065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF1E0655-00CE-4A94-9E40-CDF297DB257E}
+	EndGlobalSection
+EndGlobal
