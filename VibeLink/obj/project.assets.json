@@ -4363,24 +4363,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bakha\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\B_Tursunov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
+      "projectUniqueName": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
       "projectName": "VibeLink_Server",
-      "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
-      "packagesPath": "C:\\Users\\bakha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\obj\\",
+      "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
+      "packagesPath": "C:\\Users\\B_Tursunov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\bakha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\B_Tursunov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4389,18 +4384,17 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.voids.site/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj": {
-              "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj"
+            "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj": {
+              "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj"
             },
-            "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj": {
-              "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj"
+            "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj": {
+              "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj"
             }
           }
         }
@@ -4454,16 +4448,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

@@ -22,7 +22,6 @@ namespace ServerLibrary.Data.Configuration
             builder
                 .HasMany(u => u.Messages)
                 .WithOne();
-
         }
     }
 }

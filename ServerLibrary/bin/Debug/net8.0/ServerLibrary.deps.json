@@ -632,7 +632,10 @@
       "System.Threading.Channels/6.0.0": {},
       "BaseLibrary/1.0.0": {
         "runtime": {
-          "BaseLibrary.dll": {}
+          "BaseLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -1,4 +1,3 @@
-
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -26,14 +25,12 @@ namespace VibeLink_Server
                         builder.AllowAnyOrigin()
                         .AllowAnyMethod()
                         .AllowAnyHeader();
-
                     });
             });
 
-            builder.Services.AddDbContext<AppDbContext>(con => con.UseSqlServer("server=localhost;integrated security=True; database=VibeLink;TrustServerCertificate=true;")
+            builder.Services.AddDbContext<AppDbContext>(con => con.UseSqlServer("server=(localdb);integrated security=True; database=VibeLink;TrustServerCertificate=true;")
                 .LogTo(Console.Write, LogLevel.Information)
                 .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking));
-
 
             builder.Services.Configure<JwtSection>(builder.Configuration.GetSection("JwtSection"));
             var jwtSection = builder.Configuration.GetSection(nameof(JwtSection)).Get<JwtSection>();
@@ -70,12 +67,10 @@ namespace VibeLink_Server
                 .AllowAnyMethod()
                 .AllowAnyHeader()
                 .AllowCredentials());
-
             });
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
 
             var app = builder.Build();
 
@@ -89,7 +84,6 @@ namespace VibeLink_Server
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 

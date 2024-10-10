@@ -969,7 +969,10 @@
       },
       "BaseLibrary/1.0.0": {
         "runtime": {
-          "BaseLibrary.dll": {}
+          "BaseLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ServerLibrary/1.0.0": {
@@ -983,7 +986,10 @@
           "System.IdentityModel.Tokens.Jwt": "8.1.2"
         },
         "runtime": {
-          "ServerLibrary.dll": {}
+          "ServerLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

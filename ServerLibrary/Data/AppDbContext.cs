@@ -5,7 +5,9 @@ namespace ServerLibrary.Data
 {
     public class AppDbContext : DbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> dbContextOptions) : base(dbContextOptions) { }
+        public AppDbContext(DbContextOptions<AppDbContext> dbContextOptions) : base(dbContextOptions)
+        {
+        }
 
         public DbSet<Chat> Chats { get; set; }
         public DbSet<User> Users { get; set; }
@@ -33,8 +35,6 @@ namespace ServerLibrary.Data
                 .HasMany(u => u.Messages)
                 .WithOne();
 
-
-
             builder.Entity<User>()
                  .HasKey(pk => pk.Id);
 
@@ -47,8 +47,6 @@ namespace ServerLibrary.Data
                 .Property(n => n.Email)
                 .IsRequired()
                 .HasColumnType("varchar(100)");
-
-
 
             builder.Entity<Files>()
                 .HasKey(pk => pk.Id);

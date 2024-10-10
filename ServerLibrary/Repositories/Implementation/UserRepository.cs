@@ -59,7 +59,6 @@ namespace ServerLibrary.Repositories.Implementation
             return new GeneralResponse(true, "Account created!");
         }
 
-
         public async Task<LoginResponse> SignInAsync(Login user)
         {
             if (user is null) return new LoginResponse(false, "Model is empty");
@@ -89,7 +88,6 @@ namespace ServerLibrary.Repositories.Implementation
                 await AddToDatabase(new RefreshTokenInfo() { Token = refreshToken, UserId = newUser.Id });
             }
             return new LoginResponse(true, "Login successfully", jwtToken, refreshToken);
-
         }
 
         private async Task<T> AddToDatabase<T>(T model)
@@ -100,7 +98,9 @@ namespace ServerLibrary.Repositories.Implementation
         }
 
         #region FindUser
+
         private async Task<User> FindUserByEmail(string email) => await appDbContext.Users.FirstOrDefaultAsync(u => u.Email!.ToLower()!.Equals(email!.ToLower()));
+
         private async Task<User> FindUserByName(string name) => await appDbContext.Users.FirstOrDefaultAsync(u => u.Name!.ToLower()!.Equals(name!.ToLower()));
 
         private async Task<UserRole> FindUserRole(Guid userId)
@@ -108,7 +108,8 @@ namespace ServerLibrary.Repositories.Implementation
 
         private async Task<SystemRole> FindRoleName(Guid roleId)
             => await appDbContext.SystemRoles.FirstOrDefaultAsync(_ => _.Id == roleId);
-        #endregion
+
+        #endregion FindUser
         #region GenerateToken
 
         private string GenerateToken(User user, string role)
@@ -131,11 +132,15 @@ namespace ServerLibrary.Repositories.Implementation
                 );
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
-        #endregion
+
+        #endregion GenerateToken
         #region
+
         private static string GenerateRefreshToken() => Convert.ToBase64String(RandomNumberGenerator.GetBytes(64));
+
         #endregion GenerateRefreshToken
         #region RefreshTokenAsync
+
         public async Task<LoginResponse> RefreshTokenAsync(RefreshToken token)
         {
             if (token is null) return new LoginResponse(false, "Model is empty");
@@ -159,12 +164,7 @@ namespace ServerLibrary.Repositories.Implementation
             await appDbContext.SaveChangesAsync();
             return new LoginResponse(true, "Token refreshed successfully", jwtToken, refreshToken);
         }
+
         #endregion
     }
-
-
-
-
 }
-
-
