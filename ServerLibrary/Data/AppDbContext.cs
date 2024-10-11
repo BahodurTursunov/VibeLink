@@ -66,10 +66,32 @@ namespace ServerLibrary.Data
                 .IsRequired()
                 .HasColumnType("varchar(500)");
 
-            builder.Entity<Files>()
-                .HasOne(m => m.Message)
+
+            // Настройка отношения между Message и Chat
+            builder.Entity<Message>()
+                .HasOne(m => m.Chat)
+                .WithMany(c => c.Messages)
+                .HasForeignKey(m => m.ChatId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            // Настройка отношения между Message и Sender
+            builder.Entity<Message>()
+                .HasOne(m => m.Sender)
                 .WithMany()
-                .HasForeignKey(m => m.MessageId);
+                .HasForeignKey(m => m.SenderId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // Настройка отношения между Message и Recipient
+            builder.Entity<Message>()
+                .HasOne(m => m.Recipient)
+                .WithMany()
+                .HasForeignKey(m => m.RecipientId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            //    builder.Entity<Files>()
+            //        .HasOne(m => m.Message)
+            //        .WithMany()
+            //        .HasForeignKey(m => m.MessageId);
         }
 
         /*  protected override void OnModelCreating(ModelBuilder modelBuilder)
