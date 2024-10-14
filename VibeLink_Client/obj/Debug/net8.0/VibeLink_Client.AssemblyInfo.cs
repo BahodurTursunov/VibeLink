@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VibeLink_Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+907cd16a89e93ce71ddc686536e41b82fed45763")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5577f8a1a9ec7da4b4703db8c52287622446a76")]
 [assembly: System.Reflection.AssemblyProductAttribute("VibeLink_Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VibeLink_Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,6 +16,11 @@ namespace VibeLink_Server.Hubs.Implementation
                 .ReceiveMessage("Admin", $"{connection.UserName} присоединился к чату");
         }
 
+        public override async Task OnConnectedAsync()
+        {
+            await Clients.All.SendAsync()
+        }
+
         //public Task SendMessage(string message)
         //{
         //    return Clients.Others.SendAsync("Send", message);
