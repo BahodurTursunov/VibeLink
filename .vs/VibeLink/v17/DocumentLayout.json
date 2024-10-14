@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\hubs\\implementation\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\hubs\\interface\\ichatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\hubs\\interface\\ichatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink_client\\pages\\chathubpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|solutionrelative:vibelink_client\\pages\\chathubpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\hubs\\interface\\ichatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\hubs\\interface\\ichatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\vibelink_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -146,11 +146,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Program.cs",
               "RelativeDocumentMoniker": "VibeLink\\Program.cs",
@@ -168,19 +168,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "VibeLink_Client\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "VibeLink_Client\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:24:17.136Z"
+              "DocumentIndex": 1,
+              "Title": "IChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Interface\\IChatClient.cs",
+              "RelativeDocumentMoniker": "VibeLink\\Hubs\\Interface\\IChatClient.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Interface\\IChatClient.cs",
+              "RelativeToolTip": "VibeLink\\Hubs\\Interface\\IChatClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:16:27.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Implementation\\ChatHub.cs",
+              "RelativeDocumentMoniker": "VibeLink\\Hubs\\Implementation\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Implementation\\ChatHub.cs",
+              "RelativeToolTip": "VibeLink\\Hubs\\Implementation\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:37:33.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\_Imports.razor",
               "RelativeDocumentMoniker": "VibeLink_Client\\_Imports.razor",
@@ -189,18 +203,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-11T09:23:17.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IChatClient.cs",
-              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Interface\\IChatClient.cs",
-              "RelativeDocumentMoniker": "VibeLink\\Hubs\\Interface\\IChatClient.cs",
-              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Interface\\IChatClient.cs",
-              "RelativeToolTip": "VibeLink\\Hubs\\Interface\\IChatClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:16:27.237Z"
             },
             {
               "$type": "Document",
@@ -216,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ChatHubPage.razor",
               "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Pages\\ChatHubPage.razor",
               "RelativeDocumentMoniker": "VibeLink_Client\\Pages\\ChatHubPage.razor",
@@ -228,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Program.cs",
               "RelativeDocumentMoniker": "VibeLink_Client\\Program.cs",
@@ -264,20 +266,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Implementation\\ChatHub.cs",
-              "RelativeDocumentMoniker": "VibeLink\\Hubs\\Implementation\\ChatHub.cs",
-              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Implementation\\ChatHub.cs",
-              "RelativeToolTip": "VibeLink\\Hubs\\Implementation\\ChatHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:37:33.094Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "VibeLink_Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "VibeLink_Client\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:24:17.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "VibeLink_Client\\wwwroot\\index.html",
@@ -289,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\App.razor",
               "RelativeDocumentMoniker": "VibeLink_Client\\App.razor",
@@ -301,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "VibeLink\\Controllers\\UsersController.cs",

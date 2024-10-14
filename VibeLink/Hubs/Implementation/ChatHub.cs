@@ -13,12 +13,22 @@ namespace VibeLink_Server.Hubs.Implementation
 
             await Clients
                 .Group(connection.ChatRoom)
-                .ReceiveMessage("Admin", $"{connection.UserName} присоединился к чату");
+                .ReceiveMessage("Admin", $"{connection.UserName} присоединился к группе");
+        }
+
+        public async Task LeaveChat(UserConnection connection)
+        {
+            await Groups.RemoveFromGroupAsync(Context.ConnectionId, connection.ChatRoom);
+
+            await Clients
+                .Group(connection.ChatRoom)
+                .ReceiveMessage("Admin", $"{connection.UserName} вышел из группы");
         }
 
         public override async Task OnConnectedAsync()
         {
-            await Clients.All.SendAsync()
+            string connectionId = Context.ConnectionId;
+            await base.OnConnectedAsync();
         }
 
         //public Task SendMessage(string message)
