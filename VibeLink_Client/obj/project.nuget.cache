@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/MqbQAdPTsw=",
+  "dgSpecHash": "CjszljPg1YY=",
   "success": true,
   "projectFilePath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink_Client\\VibeLink_Client.csproj",
   "expectedPackageFiles": [
@@ -33,12 +33,5 @@
     "C:\\Users\\bakha\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\bakha\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.10.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
-    }
-  ]
+  "logs": []
 }

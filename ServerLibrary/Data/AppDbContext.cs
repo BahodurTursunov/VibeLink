@@ -72,6 +72,20 @@ namespace ServerLibrary.Data
                 .HasOne(m => m.Message)
                 .WithMany()
                 .HasForeignKey(m => m.MessageId);
+
+
+            builder.Entity<Message>()
+                .HasKey(pk => pk.Id);
+
+            builder.Entity<Message>()
+                .Property(t => t.Text)
+                .IsRequired()
+                .HasColumnType("varchar(2000)");
+
+            builder.Entity<Message>()
+                .HasOne(u => u.Sender)
+                .WithMany()
+                .HasForeignKey(s => s.SenderId);
         }
 
         /*  protected override void OnModelCreating(ModelBuilder modelBuilder)
