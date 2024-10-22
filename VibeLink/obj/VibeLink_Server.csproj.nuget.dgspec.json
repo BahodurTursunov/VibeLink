@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\VibeLink_Server.csproj": {}
+    "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\VibeLink_Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj": {
+    "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj",
         "projectName": "BaseLibrary",
-        "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj",
-        "packagesPath": "C:\\Users\\bakha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\obj\\",
+        "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj",
+        "packagesPath": "C:\\Users\\B_Tursunov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bakha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\B_Tursunov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +23,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.voids.site/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -74,25 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj": {
+    "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj",
         "projectName": "ServerLibrary",
-        "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj",
-        "packagesPath": "C:\\Users\\bakha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\obj\\",
+        "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj",
+        "packagesPath": "C:\\Users\\B_Tursunov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bakha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\B_Tursunov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,15 +92,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.voids.site/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj"
+              "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj"
               }
             }
           }
@@ -176,25 +166,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\VibeLink_Server.csproj": {
+    "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\VibeLink_Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
+        "projectUniqueName": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
         "projectName": "VibeLink_Server",
-        "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
-        "packagesPath": "C:\\Users\\bakha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\VibeLink\\obj\\",
+        "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
+        "packagesPath": "C:\\Users\\B_Tursunov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bakha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\B_Tursunov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -203,18 +189,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.voids.site/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\BaseLibrary\\BaseLibrary.csproj"
+              "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\BaseLibrary.csproj"
               },
-              "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj": {
-                "projectPath": "C:\\Users\\bakha\\source\\repos\\VibeLink\\ServerLibrary\\ServerLibrary.csproj"
+              "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj": {
+                "projectPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj"
               }
             }
           }
@@ -244,6 +229,20 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.8.1, )"
@@ -268,7 +267,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

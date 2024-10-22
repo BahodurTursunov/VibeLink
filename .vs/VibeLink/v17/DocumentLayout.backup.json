@@ -1,0 +1,571 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\hubs\\implementation\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\hubs\\implementation\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|solutionrelative:vibelink_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink_client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|solutionrelative:vibelink_client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink_client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|solutionrelative:vibelink_client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink_client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|solutionrelative:vibelink_client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink_client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|solutionrelative:vibelink_client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink_client\\pages\\chathubpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|solutionrelative:vibelink_client\\pages\\chathubpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\hubs\\interface\\ichatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\hubs\\interface\\ichatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\vibelink_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\vibelink_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink_client\\vibelink_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2200D013-4578-4AB7-850A-5CEA56019D24}|VibeLink_Client\\VibeLink_Client.csproj|solutionrelative:vibelink_client\\vibelink_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\vibelink\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ADC2112-7FF0-4164-BDAE-EFA50DE74FA6}|VibeLink\\VibeLink_Server.csproj|solutionrelative:vibelink\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\data\\configuration\\fileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\configuration\\fileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\data\\configuration\\chatconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\configuration\\chatconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\dtos\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\entities\\refreshtokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\refreshtokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\baselibrary\\entities\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C311D5-3284-459F-B371-914DF7A69AAE}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\b_tursunov\\source\\repos\\myprojects\\vibelink\\serverlibrary\\migrations\\20241011052028_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B8EF26-558B-4674-A332-B24406AEC516}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\migrations\\20241011052028_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Program.cs",
+              "RelativeDocumentMoniker": "VibeLink\\Program.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Program.cs",
+              "RelativeToolTip": "VibeLink\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwG0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:03:25.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "VibeLink_Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "VibeLink_Client\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:24:17.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "VibeLink_Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\_Imports.razor",
+              "RelativeToolTip": "VibeLink_Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:23:17.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Interface\\IChatClient.cs",
+              "RelativeDocumentMoniker": "VibeLink\\Hubs\\Interface\\IChatClient.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Interface\\IChatClient.cs",
+              "RelativeToolTip": "VibeLink\\Hubs\\Interface\\IChatClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:16:27.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VibeLink_Client.csproj",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\VibeLink_Client.csproj",
+              "RelativeDocumentMoniker": "VibeLink_Client\\VibeLink_Client.csproj",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\VibeLink_Client.csproj",
+              "RelativeToolTip": "VibeLink_Client\\VibeLink_Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T09:03:42.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatHubPage.razor",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Pages\\ChatHubPage.razor",
+              "RelativeDocumentMoniker": "VibeLink_Client\\Pages\\ChatHubPage.razor",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Pages\\ChatHubPage.razor",
+              "RelativeToolTip": "VibeLink_Client\\Pages\\ChatHubPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:03:55.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Program.cs",
+              "RelativeDocumentMoniker": "VibeLink_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\Program.cs",
+              "RelativeToolTip": "VibeLink_Client\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:46:33.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VibeLink_Server.csproj",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
+              "RelativeDocumentMoniker": "VibeLink\\VibeLink_Server.csproj",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\VibeLink_Server.csproj",
+              "RelativeToolTip": "VibeLink\\VibeLink_Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T06:28:29.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VibeLink\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VibeLink\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T05:48:28.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Implementation\\ChatHub.cs",
+              "RelativeDocumentMoniker": "VibeLink\\Hubs\\Implementation\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Hubs\\Implementation\\ChatHub.cs",
+              "RelativeToolTip": "VibeLink\\Hubs\\Implementation\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:37:33.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "VibeLink_Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\wwwroot\\index.html",
+              "RelativeToolTip": "VibeLink_Client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-11T09:25:24.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\App.razor",
+              "RelativeDocumentMoniker": "VibeLink_Client\\App.razor",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink_Client\\App.razor",
+              "RelativeToolTip": "VibeLink_Client\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:25:55.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "VibeLink\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "VibeLink\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:29:22.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241011052028_First.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Migrations\\20241011052028_First.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Migrations\\20241011052028_First.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Migrations\\20241011052028_First.cs",
+              "RelativeToolTip": "ServerLibrary\\Migrations\\20241011052028_First.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwHsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:20:29.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0IAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:43:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Data\\Configuration\\FileConfiguration.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Configuration\\FileConfiguration.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Data\\Configuration\\FileConfiguration.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Configuration\\FileConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:43:43.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Data\\Configuration\\ChatConfiguration.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Configuration\\ChatConfiguration.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Data\\Configuration\\ChatConfiguration.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Configuration\\ChatConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:45:13.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:43:47.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:35:18.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SystemRole.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:36:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\User.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:44:53.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountBase.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:39:10.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:39:12.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\Chat.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Chat.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\Chat.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Chat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:36:00.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\Message.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Message.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:35:05.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\appsettings.json",
+              "RelativeDocumentMoniker": "VibeLink\\appsettings.json",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\VibeLink\\appsettings.json",
+              "RelativeToolTip": "VibeLink\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T10:29:04.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\DTOs\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\DTOs\\RefreshToken.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:39:15.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\Constants.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Helpers\\Constants.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:39:20.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtSection.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:39:21.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:39:03.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Files.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\Files.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Files.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\Files.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Files.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:35:59.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:36:01.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RefreshTokenInfo.cs",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\RefreshTokenInfo.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\RefreshTokenInfo.cs",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\BaseLibrary\\Entities\\RefreshTokenInfo.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\RefreshTokenInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:36:03.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServerLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.csproj",
+              "ToolTip": "C:\\Users\\B_Tursunov\\source\\repos\\MyProjects\\VibeLink\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeToolTip": "ServerLibrary\\ServerLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T06:19:23.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
