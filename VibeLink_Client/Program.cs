@@ -14,9 +14,11 @@ namespace VibeLink_Client
             builder.RootComponents.Add<HeadOutlet>("head::after");
 
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
-            hubConnection = new HubConnection()
+            
+            hubConnection = new HubConnectionBuilder()
                 .WithUrl("https://localhost:7055/notification")
                 .Build();
+            
             await builder.Build().RunAsync();
         }
     }
